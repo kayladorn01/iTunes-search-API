@@ -1,0 +1,9 @@
+#search-btn{
+    border-radius: 0.25rem;
+    color: #fff;
+    background-color: pink;
+    border-color: pink;
+}
+/* 
+    * I gave the search button a border radius, a color, a background color and a border color.
+  */
